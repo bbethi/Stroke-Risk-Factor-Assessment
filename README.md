@@ -7,7 +7,7 @@ Data Source: BRFSS Health Survey Dataset.
 Key Models: Logistic Regression, CatBoost, Random Forest, K-Nearest Neighbors.
 Results: The Random Forest model achieved the highest accuracy (99%) and AUC (1.0), showcasing its exceptional predictive capability.
 Files in the Repository
-stroke-risk-analysis.ipynb: Jupyter Notebook containing the full data analysis, statistical tests, and machine learning workflows.
+TEAM04_PROJECT.ipynb: Jupyter Notebook containing the full data analysis, statistical tests, and machine learning workflows.
 stroke-risk-analysis-presentation.pdf: A presentation summarizing the project methodology, results, and key insights.
 stroke-risk-analysis-report.pdf: The detailed project report outlining the methodology, data analysis, statistical results, and model performance.
 Methodology
